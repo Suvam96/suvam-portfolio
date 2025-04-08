@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I'm Suvam Das</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I&#39;m Suvam Das</h1>
             <h2 className="text-2xl md:text-3xl font-semibold mb-6">Frontend Developer</h2>
             <p className="text-lg mb-8">
               Crafting beautiful and responsive web experiences with modern technologies.
