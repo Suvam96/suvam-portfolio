@@ -93,14 +93,14 @@ export default function Contact() {
               
               <div className="mb-6">
                 <h4 className="font-semibold mb-2">Phone</h4>
-                <p className="text-gray-600">+91 1234567890</p>
+                <p className="text-gray-600">9937683800</p>
               </div>
               
               <div>
                 <h4 className="font-semibold mb-2">Location</h4>
-                <p className="text-gray-600">City, State, India</p>
+                <p className="text-gray-600">Bhubaneswar</p>
               </div>
-              
+{/*               
               <div className="mt-8">
                 <h4 className="font-semibold mb-3">Social Media</h4>
                 <div className="flex space-x-4">
@@ -120,7 +120,7 @@ export default function Contact() {
                     </svg>
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           

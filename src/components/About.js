@@ -25,7 +25,7 @@ export default function About() {
                   </li>
                   <li className="flex">
                     <span className="font-medium w-32">Email:</span>
-                    <span>your.email@example.com</span>
+                    <span>96suvam@gmail.com</span>
                   </li>
                 </ul>
                 <div className="mt-6">
